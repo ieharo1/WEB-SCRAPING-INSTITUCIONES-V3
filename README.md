@@ -1,4 +1,4 @@
-# 🌐 Web Scraping Instituciones v0.0.3 - Selenium Version
+# 🌐 Web Scraping Instituciones v0.0.3
 
 Sistema de web scraping con Selenium para sitios web dinámicos y JavaScript-heavy. Desarrollado por **Isaac Esteban Haro Torres**.
 
