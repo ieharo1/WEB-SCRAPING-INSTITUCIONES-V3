@@ -247,12 +247,6 @@ driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
 5. Autenticación requerida
 6. Interacción con elementos
 
----
-
-## 🤝 Contribuciones
-
-¿Agregaste nuevos scrapers?
-¡Abre un Pull Request!
 
 ---
 
